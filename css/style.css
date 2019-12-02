@@ -171,9 +171,9 @@ figure {
 img {
   height: 20rem;
   width: 23rem;
-  margin-left: 55rem;
-  border: 2px solid;
-  margin-top: -12rem; }
+  margin-left: 15rem;
+  /* border: 2px solid; */
+   }
 
 svg {
   overflow: hidden;
